@@ -1,0 +1,6 @@
+{
+  "name": "Calculator Hub",
+  "description": "An all-in-one suite of essential calculators including mathematical, financial, converter, and fitness utilities in a modern SaaS layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
